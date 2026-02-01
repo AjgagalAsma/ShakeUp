@@ -42,7 +42,7 @@ ShakeUp integrates key functionalities for personal security:
 
 ## 🤖 AI & Machine Learning
 
-My AI work is fully contained in a separate repository:
+My Contribution (AI/ML) is fully contained in a separate repository:
 
 - **Dataset & Models:** [GeoRiskPredict – AI Models & Dataset](https://github.com/AjgagalAsma/GeoRiskPredict)
 - Includes:
