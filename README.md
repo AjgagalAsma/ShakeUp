@@ -79,7 +79,6 @@ View the project overview and photos on LinkedIn:
 View the ShakeUp project presentation (read-only):  
 [ShakeUp Canva Presentation](https://www.canva.com/design/DAGod9x1Ju8/sJAr27c6hp8u5B1puf45pQ/view)
 
-> ⚠️ The link opens the presentation for viewing only; no edits are required.
 
 ---
 
