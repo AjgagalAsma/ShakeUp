@@ -86,7 +86,7 @@ View the ShakeUp project presentation (read-only):
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YourUsername/ShakeUp.git
+git clone https://github.com/AjgagalAsma/ShakeUp.git
 cd ShakeUp
 ```
 ### 2. Open the project in Android Studio
