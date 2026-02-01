@@ -66,7 +66,7 @@ My AI work is fully contained in a separate repository:
 ## 📂 Presentation & Project Overview
 
 <p align="center">
-  <img src="img/img1.png" alt="ShakeUp Home" width="600"/>
+  <img src="img/img1.jpg" alt="ShakeUp Home" width="600"/>
 </p>
 
 ### 🔗 LinkedIn Post
